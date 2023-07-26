@@ -12,3 +12,4 @@ For Mac OS and Linux:
 
     export FLASK_APP=app.py
     python -m flask run
+
